@@ -9,11 +9,6 @@
     border-radius: 0% !important;
 }
 
-body {
-    height: 3500px;
-    /* background-color: rgb(19, 19, 27); */
-}
-
 :root {
     --title-color: #3ca500;
     --secondary-color: #2a7200;
